@@ -1,0 +1,30 @@
+
+################################################################################################################################################
+Starting Execution:	[2 out of 3] test cases in the current suite
+Test Method:		[TestClass.GoogleLogoDisplayed]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @30-04-2022 21:21:43.0661 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @30-04-2022 21:21:43.0775 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @30-04-2022 21:21:43.0780 PM
+[ReportManager] Successfully Opened Google Chrome. @30-04-2022 21:21:45.0797 PM
+[ReportManager] Target URL: [https://www.google.com.eg/] @30-04-2022 21:21:46.0310 PM
+[ReportManager] Initial URL: [data:,] @30-04-2022 21:21:46.0373 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220430-212143", Target File: "\1651346509257_GoogleLogoDisplayed.gif"]. @30-04-2022 21:21:49.0422 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://www.google.com.eg/]. @30-04-2022 21:21:49.0778 PM
+[ReportManager] File Action [DoesFileExist] successfully performed. With the following test data [File Path: "src/main/resources/dynamicObjectRepository/TestClass_GoogleLogoDisplayed_By_xpath_img_alt_Google.png"]. @30-04-2022 21:21:49.0788 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/main/resources/dynamicObjectRepository/TestClass_GoogleLogoDisplayed_By_xpath_img_alt_Google.png"]. @30-04-2022 21:21:49.0789 PM
+[ReportManager] File Action [ReadFromImageFile] successfully performed. With the following test data [File Path: "D:\QA Task\Automation\src\main\resources\dynamicObjectRepository\TestClass_GoogleLogoDisplayed_By_xpath_img_alt_Google.png"]. @30-04-2022 21:21:49.0790 PM
+[ReportManager] File Action [DoesFileExist] successfully performed. With the following test data [File Path: "src/main/resources/dynamicObjectRepository/TestClass_GoogleLogoDisplayed_By_xpath_img_alt_Google.png"]. @30-04-2022 21:21:49.0957 PM
+[ReportManager] File Action [DoesFileExist] successfully performed. With the following test data [File Path: "src/main/resources/dynamicObjectRepository/TestClass_GoogleLogoDisplayed_By_xpath_img_alt_Google.png"]. @30-04-2022 21:21:49.0957 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/main/resources/dynamicObjectRepository/TestClass_GoogleLogoDisplayed_By_xpath_img_alt_Google.png"]. @30-04-2022 21:21:49.0985 PM
+[ReportManager] File Action [ReadFromImageFile] successfully performed. With the following test data [File Path: "D:\QA Task\Automation\src\main\resources\dynamicObjectRepository\TestClass_GoogleLogoDisplayed_By_xpath_img_alt_Google.png"]. @30-04-2022 21:21:49.0986 PM
+[ReportManager] Accuracy threshold is [80.0%] and the actual match accuracy is [100.0%]. @30-04-2022 21:21:49.0991 PM
+[ReportManager] Successfully identified the element using AI; OpenCV. @30-04-2022 21:21:49.0991 PM
+[ReportManager] Assertion Passed: ASSERT THAT GOOGLE LOGO IMAGE IS DISPLAYED @30-04-2022 21:21:49.0994 PM
+[ReportManager] Successfully created attachment [Validation Test Data - Reference Screenshot] @30-04-2022 21:21:49.0996 PM
+[ReportManager] Successfully created attachment [Validation Test Data - Actual Screenshot] @30-04-2022 21:21:49.0997 PM
+[ReportManager] Assertion [ValidateElementMatches] PASSED. Expected [Element should match the reference screenshot] and Actual [TRUE]. Comparison Type [EXACT_OPENCV]. Validation Type [POSITIVE]. @30-04-2022 21:21:49.0997 PM
+[ReportManager] Successfully created attachment [Video Recording - GoogleLogoDisplayed] @30-04-2022 21:21:51.0299 PM
+[ReportManager] Browser Action [CloseCurrentWindow] successfully performed. @30-04-2022 21:21:51.0632 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - CloseCurrentWindow - Actual Value] @30-04-2022 21:21:51.0637 PM
+[ReportManager] Successfully created attachment [Animated Gif - GoogleLogoDisplayed] @30-04-2022 21:21:51.0651 PM
